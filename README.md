@@ -1,4 +1,4 @@
-## Hii
+## Helloooooo
 
 ### Academic Background
 
@@ -6,7 +6,7 @@ I’m currently pursuing a Master’s in Mathematical Finance. My dissertation i
 
 ### Professional Experience
 
-I work as a Software Engineer at an insurance firm, where I’m developing a sophisticated application to streamline the processing of contract slips. This application, which handles both digital and scanned documents, creates a database to automate data retrieval. I’m leveraging Azure OpenAI and Azure ComputerVision APIs to significantly reduce manual processing time and improve team efficiency.
+I work as a Software Engineer at Starr insurance, where I’m developing a sophisticated application to streamline the processing of contract slips. This application, which handles both digital and scanned documents, creates a database to automate data retrieval. I’m leveraging Azure OpenAI and Azure ComputerVision APIs to significantly reduce manual processing time and improve team efficiency.
 
 ### Current Projects
 
@@ -15,6 +15,8 @@ I’m currently diving into the realm of machine learning, guided by Christopher
 ### Collaboration & Interests
 
 I’m passionate about machine learning and stochastic calculus and am eager to contribute to projects or research in these areas. If you’re working on something exciting or looking for collaboration opportunities, feel free to connect with me!
+
+
 
 
 
@@ -31,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 -->
